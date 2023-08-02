@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: e2376b61ec4aca84e9e56531536caf22
+timeCreated: 1468851778
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: colorbar
+    21300002: CircleSize_big
+    21300004: CornerPanelRadius_0px_Fill
+    21300006: CircleMiddleSize_Stroke_16px
+    21300008: videotoggle_Fill
+    21300010: borderframe
+    21300012: border
+    21300014: item_7
+    21300016: item_8
+    21300018: MediaIcon_4
+    21300020: share_fb
+    21300022: CircleMiddleSize_Stroke_8px
+    21300024: videoicon
+    21300026: item_13
+    21300028: cameraicon
+    21300030: share_email
+    21300032: item_18
+    21300034: item_19
+    21300036: item_20
+    21300038: item_21
+    21300040: classbtn
+    21300042: color_slider_handle
+    21300044: cancel
+    21300046: sticker_icon
+    21300048: item_27
+    21300050: item_28
+    21300052: item_33
+    21300054: camera_btn_toggle_default
+    21300056: delete_default_btn
+    21300058: feedback_pressed
+    21300060: share_btn
+    21300062: text_icon
+    21300064: save_path_picker_checkbox_checked_default
+    21300066: CircleSize_small
+    21300068: zoom_default
+    21300070: back_page
+    21300072: frame_icon
+    21300074: share_tw
+    21300076: save_pressed
+    21300078: invite_pressed
+    21300080: sharepreframe
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: colorbar
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 500
+        width: 242
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CircleSize_big
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 382
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CornerPanelRadius_0px_Fill
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 410
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+    - name: CircleMiddleSize_Stroke_16px
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 398
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: videotoggle_Fill
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 463
+        width: 100
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: borderframe
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 459
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: border
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 475
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MediaIcon_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 375
+        width: 94
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: share_fb
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 369
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CircleMiddleSize_Stroke_8px
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: videoicon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 318
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraicon
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 301
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: share_btn
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 323
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_icon
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 313
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: share_email
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 254
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: classbtn
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 270
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: color_slider_handle
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 210
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cancel
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 220
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sticker_icon
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 231
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: save_path_picker_checkbox_checked_default
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 185
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CircleSize_small
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 218
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 17, y: 17, z: 17, w: 17}
+    - name: zoom_default
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 133
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: camera_btn_toggle_default
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 140
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back_page
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 143
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame_icon
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 94
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: delete_default_btn
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 43
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: share_tw
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 29
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feedback_pressed
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 84
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: save_pressed
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: invite_pressed
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sharepreframe
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 493
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 8, y: 8, z: 8, w: 7}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
